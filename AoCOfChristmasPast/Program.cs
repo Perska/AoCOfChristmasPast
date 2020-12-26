@@ -14,7 +14,7 @@ namespace AoC2020
 		{
 			new List<DayProgram>() // 2015
 			{
-				Y15Day01, Y15Day02, Y15Day03
+				Y15Day01, Y15Day02, Y15Day03, Y15Day04, Y15Day05, Y15Day06
 			}
 		};
 

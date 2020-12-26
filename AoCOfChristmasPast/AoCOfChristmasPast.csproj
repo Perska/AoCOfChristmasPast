@@ -49,6 +49,9 @@
     <Compile Include="Years\2015\Y15Day01.cs" />
     <Compile Include="Years\2015\Y15Day02.cs" />
     <Compile Include="Years\2015\Y15Day03.cs" />
+    <Compile Include="Years\2015\Y15Day04.cs" />
+    <Compile Include="Years\2015\Y15Day05.cs" />
+    <Compile Include="Years\2015\Y15Day06.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
